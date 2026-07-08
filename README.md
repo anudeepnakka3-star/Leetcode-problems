@@ -19,14 +19,40 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1539-kth-missing-positive-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
