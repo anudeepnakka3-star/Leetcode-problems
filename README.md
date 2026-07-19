@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1539-kth-missing-positive-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
