@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0704-binary-search](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
