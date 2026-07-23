@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1539-kth-missing-positive-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0905-sort-array-by-parity](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
