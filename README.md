@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0905-sort-array-by-parity](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
