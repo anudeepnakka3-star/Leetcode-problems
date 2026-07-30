@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |
