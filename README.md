@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
