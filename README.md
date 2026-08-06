@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0189-rotate-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0242-valid-anagram) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0229-majority-element-ii) |
