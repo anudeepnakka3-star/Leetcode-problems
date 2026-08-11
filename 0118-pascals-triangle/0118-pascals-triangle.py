@@ -9,8 +9,8 @@ class Solution:
                 res.append(ans)
             return res
         pascal=[]
-        for j in range(numRows):
-            pascal.append(printrows(numRows-j))
-        return pascal[::-1]
+        for j in range(1,numRows+1):
+            pascal.append(printrows(j))
+        return pascal
 
         
