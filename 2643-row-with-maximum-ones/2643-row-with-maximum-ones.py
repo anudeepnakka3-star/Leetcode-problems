@@ -9,8 +9,8 @@ class Solution:
             for j in range(cols):
                 if mat[i][j]==1:
                     cnt+=1
-                if cnt>c:
-                    c=cnt
-                    index=i
+            if cnt>c:
+                c=cnt
+                index=i
         return [index,c]
         
