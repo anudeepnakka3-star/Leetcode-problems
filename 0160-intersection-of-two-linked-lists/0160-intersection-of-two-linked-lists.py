@@ -9,14 +9,8 @@ class Solution:
         a=headA
         b=headB
         while a!=b:
-            if a is not None:
-                a=a.next
-            else:
-                a=headB
-            if b is not None:
-                b=b.next
-            else:
-                b=headA
+            a = a.next if a else headB
+            b = b.next if b else headA
         return a
             
         
