@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
 ## Bracket Sequences
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Memoization
