@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0461-hamming-distance) |
+| [1486-xor-operation-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Bracket Sequences
 |  |
