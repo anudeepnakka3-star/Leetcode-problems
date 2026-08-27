@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0461-hamming-distance) |
