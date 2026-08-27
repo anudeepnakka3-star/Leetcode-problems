@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Trie
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bracket Sequences
 |  |
 | ------- |
