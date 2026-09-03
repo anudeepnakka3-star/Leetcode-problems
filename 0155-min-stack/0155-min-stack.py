@@ -29,6 +29,8 @@ class MinStack:
         
 
     def getMin(self) -> int:
+        if len(self.stack)==0:
+            return 0
         return self.stack[-1][1]
 
         
