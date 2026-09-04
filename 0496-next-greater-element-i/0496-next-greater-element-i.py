@@ -1,5 +1,6 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        """
         n=len(nums2)
         ans=[-1]*n
         stack=[]
@@ -19,6 +20,18 @@ class Solution:
             else:
                 r+=1
         return nums1
-
-                    
+    """
+        n=len(nums2)
+        stack=[]
+        next_greater={}
+        for i in range(n):
+            while  len(stack)!=0 and stack[-1]<=nums2[i]:
+                next_greater[stack.pop()]=nums2[i]
+            stack.append(nums2[i])
+        for num in stack:
+            next_greater[num]=-1
+        ans=[]
+        for i in range(len(nums1)):
+            ans.append(next_greater[nums1[i]])
+        return ans                   
         
