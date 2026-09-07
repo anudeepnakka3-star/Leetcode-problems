@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -418,4 +421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
