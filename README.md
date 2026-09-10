@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
