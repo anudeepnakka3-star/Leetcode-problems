@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1952-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [2094-finding-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
