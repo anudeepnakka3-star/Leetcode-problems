@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
