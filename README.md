@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2487-remove-nodes-from-linked-list) |
