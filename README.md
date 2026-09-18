@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0242-valid-anagram) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0260-single-number-iii) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -499,4 +503,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0901-online-stock-span) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
