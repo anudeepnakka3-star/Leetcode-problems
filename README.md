@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Manacher
 |  |
 | ------- |
