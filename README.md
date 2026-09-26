@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2643-row-with-maximum-ones](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
