@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2090-k-radius-subarray-averages) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2537-count-the-number-of-good-subarrays) |
