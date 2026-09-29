@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
