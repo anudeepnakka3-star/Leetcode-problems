@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0735-asteroid-collision) |
+| [1688-count-of-matches-in-tournament](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
