@@ -1,8 +1,7 @@
 class Solution:
     def minRotations(self, s: str) -> int:
         n=len(s)
-        l=0
-        r=1
+        
         ans=0
         for r in range(0,n):
             if r==0:
@@ -11,8 +10,7 @@ class Solution:
                 a=int(s[r-1])
             b=int(s[r])
             ans+=min(abs(a-b),10-abs(a-b))
-            l+=1
-            r+=1
+           
         return ans
 
         
