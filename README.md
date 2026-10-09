@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
