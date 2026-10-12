@@ -1,5 +1,5 @@
 class Solution:
-    def searchInsert(self, nums: List[int], target: int) -> int:
+    def searchInsert(self, nums: list[int], target: int) -> int:
         low=0
         high=len(nums)-1
         lb=len(nums)
@@ -12,5 +12,4 @@ class Solution:
                 low=mid+1
         return lb
 
-                
         
