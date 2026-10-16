@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0881-boats-to-save-people) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
