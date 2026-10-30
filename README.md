@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0435-non-overlapping-intervals) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
