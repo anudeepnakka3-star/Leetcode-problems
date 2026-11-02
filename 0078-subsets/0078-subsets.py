@@ -1,5 +1,5 @@
 class Solution:
-    def subsets(self, nums: List[int]) -> List[List[int]]:
+    def subsets(self, nums: list[int]) -> list[list[int]]:
         n=len(nums)
         tot_subsets=1<<n
         result=[]
@@ -10,5 +10,4 @@ class Solution:
                     lst.append(nums[i])
             result.append(lst)
         return result
-        
         
