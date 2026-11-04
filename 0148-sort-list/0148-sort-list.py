@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def sortList(self, head: ListNode | None) -> ListNode | None:
         val=[]
         temp=head
         while temp is not None:
@@ -18,4 +18,3 @@ class Solution:
             i+=1
             temp=temp.next
         return head
-        
