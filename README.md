@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2094-finding-3-digit-even-numbers) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
