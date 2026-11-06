@@ -1,5 +1,5 @@
 class Solution:
-    def maxProduct(self, nums: List[int]) -> int:
+    def maxProduct(self, nums: list[int]) -> int:
         n=len(nums)
         leftprod=1
         rightprod=1
@@ -13,5 +13,3 @@ class Solution:
             rightprod*=nums[n-1-i]
             ans=max(ans,max(leftprod,rightprod))
         return ans
-        
-        
