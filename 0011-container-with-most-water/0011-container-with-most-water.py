@@ -1,5 +1,5 @@
 class Solution:
-    def maxArea(self, height: List[int]) -> int:
+    def maxArea(self, height: list[int]) -> int:
         n=len(height)
         l=0
         r=n-1
@@ -12,6 +12,3 @@ class Solution:
                 ans=max(ans,(r-l)*min(height[l],height[r]))
                 r-=1
         return ans
-
-
-        
