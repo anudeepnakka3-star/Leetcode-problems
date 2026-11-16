@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3731-find-missing-elements) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Union-Find
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Manacher
 |  |
 | ------- |
