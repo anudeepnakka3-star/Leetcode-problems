@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1952-three-divisors) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/3903-smallest-stable-index-i) |
