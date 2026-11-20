@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0054-spiral-matrix) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0118-pascals-triangle) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0402-remove-k-digits) |
