@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1288-remove-covered-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1208-get-equal-substrings-within-budget) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
