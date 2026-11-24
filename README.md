@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0402-remove-k-digits) |
@@ -699,11 +700,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anudeepnakka3-star/Leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
